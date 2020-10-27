@@ -1,3 +1,5 @@
+This code is based off this code: https://github.com/Shopify/storefront-api-examples/tree/master/react-js-buy
+
 How to launch this app to the cloud!
 
 1. Make a free account on [nimbella.com](nimbella.com)
