@@ -1,0 +1,14 @@
+targetNamespace: ''
+cleanNamespace: false
+bucket:
+  strip: 1
+parameters: {}
+packages:
+  - name: default
+    shared: false
+    clean: false
+    environment: {}
+    parameters: {}
+    annotations: {}
+    actions:
+      - name: hello
